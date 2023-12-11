@@ -1,6 +1,5 @@
 # Overview
-Hi there ✋!
-Welcome to the repository for my customized Kivy Pong Game! This project showcases a personalized take on the classic ping pong arcade game, leveraging the versatility of the Kivy framework. Immerse yourself in a visually captivating and dynamically engaging gaming experience that transcends conventional boundaries.
+Hi there ✋!  Welcome to the repository for my customized Kivy Pong Game! This project showcases a personalized take on the classic ping pong arcade game, leveraging the versatility of the Kivy framework. Immerse yourself in a visually captivating and dynamically engaging gaming experience that transcends conventional boundaries.
 
 # Key Features
 - ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15`
@@ -14,14 +13,14 @@ To run the game, ensure you have Python installed on your machine. Clone the rep
 
 
 # Dependencies
-> Python 3.x
+> Python 3.x  
 > Kivy (Install using: pip install kivy)
 
 # Contributing
 Contributions are welcome! Whether you're interested in enhancing visuals, optimizing code, or adding new features, feel free to fork the repository and submit a pull request. Let's collaborate to make this game even more engaging!
 
 # Acknowledgments
-[^1]: I extend my gratitude to Dr. Daruka Prasad for providing me with the opportunity and guidance to develop this game. 
+[^1]: I extend my gratitude to Dr. Daruka Prasad for providing me with the opportunity and guidance to develop this game.   
 [^2]: Special thanks to my sister Nidhi, and my friends Vishesh and Bhawana for their contributions and support throughout the development process.
 
 Enjoy playing this Kivy Pong Game, and happy coding!
