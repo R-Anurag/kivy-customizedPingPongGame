@@ -3,8 +3,8 @@ Hi there ✋!
 Welcome to the repository for my customized Kivy Pong Game! This project showcases a personalized take on the classic ping pong arcade game, leveraging the versatility of the Kivy framework. Immerse yourself in a visually captivating and dynamically engaging gaming experience that transcends conventional boundaries.
 
 # Working Screenshot of project
-- ![Alt text](ss1.jpg?raw=true "Title")
-- ![Alt text](ss2.jpg?raw=true "Title")
+- ![Alt text](ss1.png?raw=true "Title")
+- ![Alt text](ss2.png?raw=true "Title")
 
 
 # Key Features
