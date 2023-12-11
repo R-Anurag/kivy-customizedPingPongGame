@@ -2,7 +2,7 @@
 Welcome to the repository for my customized Kivy Pong Game! This project showcases a personalized take on the classic ping pong arcade game, leveraging the versatility of the Kivy framework. Immerse yourself in a visually captivating and dynamically engaging gaming experience that transcends conventional boundaries.
 
 # Key Features
-# Customized Visual Elements: 
+- ! Customized Visual Elements: 
 Enjoy a visually stunning ping pong environment with custom-designed rackets, dynamic ball movements, and captivating court backgrounds.
 # Intuitive User Interaction: 
 Seamlessly control your racket through touch or keyboard inputs, while an adaptive computer-controlled opponent adds an extra layer of challenge.
