@@ -14,13 +14,14 @@ To run the game, ensure you have Python installed on your machine. Clone the rep
 
 
 # Dependencies
-Python 3.x
-Kivy (Install using: pip install kivy)
+> Python 3.x
+> Kivy (Install using: pip install kivy)
 
 # Contributing
 Contributions are welcome! Whether you're interested in enhancing visuals, optimizing code, or adding new features, feel free to fork the repository and submit a pull request. Let's collaborate to make this game even more engaging!
 
 # Acknowledgments
-I extend my gratitude to Dr. Daruka Prasad for providing me with the opportunity and guidance to develop this game. Special thanks to my sister Nidhi, and my friends Vishesh and Bhawana for their contributions and support throughout the development process.
+[^1]: I extend my gratitude to Dr. Daruka Prasad for providing me with the opportunity and guidance to develop this game. 
+[^2]: Special thanks to my sister Nidhi, and my friends Vishesh and Bhawana for their contributions and support throughout the development process.
 
 Enjoy playing this Kivy Pong Game, and happy coding!
