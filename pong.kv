@@ -60,22 +60,21 @@
     Label:
         id: player1_score_label
         font_size: 20
-        font_family: "FlatlineSerif-Bold.ttf"
-        pos: root.width/2 - 2.5*self.width, root.height - self.height /1.25
+        font_family: "FlatlineSerif-Bold.otf"
+        pos: 2*self.width, root.height - self.height /1.25
         text: "Player: 0"
         color: 0,0,0,1
 
     Image:
         source: "vs_image.png"
-        pos: root.width/2 - self.width/2, root.height - self.height/1
-        size_hint: None, None
-        size: root.width/12, root.height/12
+        pos: 3.5*self.width, root.height - self.height/1.25
+        size_hint: (0.2, 0.2)
 
     Label:
         id: player2_score_label
         font_size: 20
-        font_family: "FlatlineSerif-Bold.ttf"
-        pos: root.width/2 + 1.7*self.width, root.height - self.height/1.25
+        font_family: "FlatlineSerif-Bold.otf"
+        pos: root.width - 3*self.width, root.height - self.height/1.25
         text: "Computer: 0"
         color: 0,0,0,1
 
