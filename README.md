@@ -13,7 +13,7 @@ Welcome to the repository for my customized Kivy Pong Game! This project showcas
 - _**Immersive Sound Effects**_: Experience the game with striking sound effects that enhance engagement, providing auditory feedback on every collision # between the paddles and the ball.
 - _**Gameplay Dynamics**_: Embrace innovation with power-ups, varying ball speeds, and dynamic paddle sizes, ensuring that each match is a unique and exciting experience.
 
-# How to Run 🏃
+# How to 🏃
 To run the game, ensure you have Python installed on your machine. Clone the repository and navigate to the project directory. Run the main Python script, and you'll be ready to enjoy a personalized and visually appealing game of pong.
 
 
